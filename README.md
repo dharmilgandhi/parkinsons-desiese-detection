@@ -1,5 +1,5 @@
-# parkinsons-desiese-detection
-Parkinson's desiese detection using sleep REM data from smartwatch 
+# parkinsons-disease-detection
+Parkinson's disease detection using sleep REM data from smartwatch 
 
 
 How to run:
